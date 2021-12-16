@@ -1,0 +1,3 @@
+cat file1
+git status
+git add
